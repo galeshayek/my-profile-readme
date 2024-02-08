@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gal</h1>
 <h3 align="center">A passionate full-stack student from israel</h3>
-
+<p align ="center>
+  
 - 📫 How to reach me **galeshayek15@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
